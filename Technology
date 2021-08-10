@@ -1,0 +1,2 @@
+These APIs are for Financial services in which the access token is only for for 120 seconds.
+Getting the token and passing it to the GET API can be used for many types of technologies.
