@@ -15,7 +15,7 @@ This is version 1 of this script, in version 2, I hope to read a list of check n
 I used postman in the customer environment. You will have to adjust to your customer.
 
 #Usage
-This code is meant to be used in a customer environment. It will change from each user. The URL should match what the customer gives you to test.
+This code is meant to be used in a customer environment. It will change from each user. The URL should match what the customer gives you to test. The access token is the 1st API to use. The userID and password need to come from the customer. The URLs will come from the customer also.
 
 #DevNet Sandbox
 Does not apply at this time as this example is a real customer.
@@ -24,11 +24,12 @@ Does not apply at this time as this example is a real customer.
 The tokens are all differnt, you must figure it out to use this script.
 
 #Getting help
-Contact the auther if he is not too busy.
+Contact the owner if he is not too busy.
 
 #Credits and references
 The Cisco requests library
 The book, automate the boring stuff with python.
+The customer's developer portal.
 
 #Best Practice
 TBD
