@@ -11,6 +11,9 @@ In my exmple, the base url, check number, client id and secert are blanked out, 
 
 This is version 1 of this script, in version 2, I hope to read a list of check numbers so that I can get the output to more than one at a time.
 
+#UPDATE
+Version 2 is working. It passes the timed token and printouts multiple APIs.
+
 #Installation
 I used postman in the customer environment. You will have to adjust to your customer.
 
@@ -32,6 +35,6 @@ The book, automate the boring stuff with python.
 The customer's developer portal.
 
 #Best Practice
-TBD
+Creat the .text file local to the python script.
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/wags69a/requests-passing-token)
